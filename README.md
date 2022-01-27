@@ -5,9 +5,9 @@ As a new data analyst hire of Pyber (ride share company), I have been tasked to 
 
 ## Results
 ### Line Graph of Total Fares for Each Week by City Type
-![alt text]()
+![alt text](https://github.com/bmliddicoat/PyBer_Analysis/blob/905842ec35a975856a55b1b1309e373bea1e8f7a/analysis/PyBer_fare_summary.png)
 ### All Markets Breakdown
-![alt text]()
+![alt text](https://github.com/bmliddicoat/PyBer_Analysis/blob/905842ec35a975856a55b1b1309e373bea1e8f7a/analysis/Data_Frame_pyber.png)
 * Total Rides for All Markets: 2,375 rides
 * Total Drivers for All Markets: 2,973 drivers
 * Total Fare for All Markets: $63,538.64
@@ -38,13 +38,13 @@ As a new data analyst hire of Pyber (ride share company), I have been tasked to 
 
 ## Summary
 Pie Chart of Percentage of Total Fares by City Type
-![alt text]
+![alt text](https://github.com/bmliddicoat/PyBer_Analysis/blob/905842ec35a975856a55b1b1309e373bea1e8f7a/analysis/Fig5.png)
 
 Pie Chart of Percentage of Total Rides by City Type
-![alt text]
+![alt text](https://github.com/bmliddicoat/PyBer_Analysis/blob/905842ec35a975856a55b1b1309e373bea1e8f7a/analysis/Fig6.png)
 
 Pie Chart of Drivers by City Type
-![alt text]
+![alt text](https://github.com/bmliddicoat/PyBer_Analysis/blob/905842ec35a975856a55b1b1309e373bea1e8f7a/analysis/Fig7.png)
 
 
 
